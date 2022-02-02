@@ -6,6 +6,16 @@
     background-color: #E6CCB2;
 }
 
+.fondoTres{
+    background-color: #B08968;
+}
+
 .carro{
     margin: 0 auto;
 }
+
+.botones:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 1s;
+}    
